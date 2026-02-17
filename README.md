@@ -1,8 +1,4 @@
-Here is the updated **README.md** with a dedicated section for you and your partner.
 
----
-
-```markdown
 # 🔍 Searching Visualizer
 
 A powerful, interactive Python application built with **Pygame** to visualize how various **Uninformed Search Algorithms** work in a grid environment. This tool allows users to create custom maps, generate mazes, and watch AI agents find their way from a Start point to a Target using different strategies.
@@ -105,10 +101,3 @@ The application features a side control panel for easy interaction.
 * 🟨 **Yellow:** Final Calculated Path
 * 🟦 **Cyan:** Actual path taken by the agent
 
----
-
-*Created for AI 2002 - Artificial Intelligence Assignment.*
-
-```
-
-```
